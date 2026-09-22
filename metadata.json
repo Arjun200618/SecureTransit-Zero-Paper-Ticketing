@@ -1,0 +1,7 @@
+{
+  "name": "RTC Conductor POS",
+  "description": "Offline-first handheld POS ticketing and ticket inspection app for Indian State RTC buses with dynamic UPI QR generation and Ed25519 cryptographic verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

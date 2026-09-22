@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bus Body -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,30 C34,26 38,24 54,24 C70,24 74,26 74,30 L74,70 C74,74 72,76 68,76 L68,80 C68,82 65,84 63,84 C61,84 59,82 59,80 L59,76 L49,76 L49,80 C49,82 47,84 45,84 C43,84 40,82 40,80 L40,76 C36,76 34,74 34,70 Z" />
+    <!-- Windshield -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M38,32 L70,32 L69,47 L39,47 Z" />
+    <!-- Route Board (High contrast amber) -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M44,26 L64,26 L64,29 L44,29 Z" />
+    <!-- Headlights -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,62 A3,3 0 1,0 44,62 A3,3 0 1,0 38,62 M64,62 A3,3 0 1,0 70,62 A3,3 0 1,0 64,62" />
+    <!-- Digital UPI QR Badge on Bus Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,52 H59 V62 H49 Z" />
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M51,54 H57 V60 H51 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M53,56 H55 V58 H53 Z" />
+</vector>
